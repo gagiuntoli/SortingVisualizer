@@ -1,3 +1,12 @@
+# Sorting Visualizer
+
+This project is a sorting visualizer which I am doing to learn a little bit of React.
+
+For this I used the tutorial of Clément Mihailescu:
+
+  * https://www.youtube.com/watch?v=pFXYym4Wbkc&t=1125s
+  * https://github.com/clementmihailescu/Sorting-Visualizer-Tutorial/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
